@@ -1,0 +1,96 @@
+/* GLOBAL PAGE */
+
+/* FORMS */
+.searchTitle {
+
+}
+
+.formSearch {
+
+}
+
+.autocomplete {
+
+}
+
+.searchInput {
+
+}
+
+.autocomplete-items {
+
+}
+
+/* FORMADHERENT */
+#formSearchMember {
+
+}
+
+#selectAdherent {
+
+}
+
+#txtSearchAdherent {
+
+}
+
+#autocompleteListAdherent {
+
+}
+/* FORMBOOK */
+#formSearchBook {
+
+}
+
+#formSearchBook > select {
+
+}
+
+#txtSearchBook {
+
+}
+
+#autocompleteListBook {
+
+}
+
+/* AUTOCOMPLETE */
+.bookTitle {
+
+}
+
+.imgBook {
+
+}
+
+.bookDetails {
+
+}
+
+.bookAuthorName {
+
+}
+
+.bookEditor {
+
+}
+
+/* main content */
+#displayArea {
+
+}
+
+#displayAreaTitle {
+
+}
+
+#listBook {
+
+}
+
+/* Seems not working, I think it's due to the dynamic creation. */
+#listBook>li {
+    display: none;
+}
+
+/* FOOTER */
